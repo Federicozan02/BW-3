@@ -1,0 +1,3 @@
+I dati di questo dataset derivano dai valori medi dell'IPCC 2014 (Intergovernative Panel of Climate Change)
+Tabella presso electricity map: https://www.electricitymaps.com/methodology
+

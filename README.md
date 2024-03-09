@@ -4,4 +4,8 @@ Gruppo 2
 
 Digichamps 2023-2024 Data Analyst
 
-Doc condiviso: https://docs.google.com/document/d/1CUvUBYW3mmW-7bs0HyDre3b0ZQXkbySBb88LvHAdV8k
+Informzioni: questa repository contiene 3 cartelle:
+
+- "Bozza": Contiene le bozze e i file grezzi dell'analisi
+- "Dataset": Contiene i dataset grezzi e altri valori
+- **"PROGETTO FINALE": Contiene i file finali del Progetto, per la correzione**
